@@ -1,13 +1,13 @@
-package com.example.traefik;
+package com.example.traefik_test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TraefikApplication {
+public class TraefikTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TraefikApplication.class, args);
+		SpringApplication.run(TraefikTestApplication.class, args);
 	}
 
 }

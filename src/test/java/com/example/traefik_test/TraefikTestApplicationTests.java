@@ -1,10 +1,10 @@
-package com.example.traefik;
+package com.example.traefik_test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TraefikApplicationTests {
+class TraefikTestApplicationTests {
 
 	@Test
 	void contextLoads() {
